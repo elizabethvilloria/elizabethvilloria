@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Elizabeth.
+My name is Elizabeth!
+🌱 I’m currently working on being a web developer
+
 
 <!--
 **elizabethvilloria/elizabethvilloria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
