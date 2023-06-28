@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 My name is Elizabeth!
-🌱 I’m currently working on being a web developer
+
+🌱 I’m currently working on being a web developer!!
 
 
 <!--
