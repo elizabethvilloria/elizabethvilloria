@@ -5,10 +5,6 @@
 <h2 align="center">My name is Elizabeth!</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="Hello gif">
-</p>
-
-<p align="center">
   🌱 I’m currently working on becoming a web developer!!
 </p>
 
@@ -28,10 +24,6 @@
   <li>💬 Ask me about: <b>Web development</b>, my current projects, or anything tech-related!</li>
   <li>📫 How to reach me: <a href="mailto:lizvilloria@gmail.com">lizvilloria@gmail.com</a></li>
 </ul>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="200" alt="Coding gif">
-</p>
 
 ---
 
