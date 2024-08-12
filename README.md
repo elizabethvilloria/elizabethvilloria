@@ -21,7 +21,6 @@
   <li>🌱 I’m currently learning: <b>JavaScript, React, Node.js</b>, and more!</li>
   <li>👯 I’m looking to collaborate on: <b>Open source projects</b>, especially those focused on web development.</li>
   <li>🤔 I’m looking for help with: <b>Best practices in software development</b> and any tips to improve my coding skills.</li>
-  <li>💬 Ask me about: <b>Web development</b>, my current projects, or anything tech-related!</li>
   <li>📫 How to reach me: <a href="mailto:lizvilloria@gmail.com">lizvilloria@gmail.com</a></li>
 </ul>
 
